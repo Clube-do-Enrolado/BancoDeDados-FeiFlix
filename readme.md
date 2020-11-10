@@ -3,20 +3,16 @@
 ## Integrantes do Grupo 3
 
 - Andy Silva Barbosa
-
-             **RA:** **22.218.025-9**
+  - RA: 22.218.025-9
 
 - Rafael Zacarias Palierini
-
-           **RA:** **22.218.030-9**
+  - RA: 22.218.030-9
 
 - Rubens de Araújo Rodrigues Mendes
-
-             **RA: 22.218.009-3**
+  - RA: 22.218.009-3
 
 - Vitor Acosta da Rosa
-
-             **RA: 22.218.006-9**
+  - RA: 22.218.006-9
 
 ## UdD - Universo de Discurso escolhido
 
@@ -38,6 +34,6 @@ Além disso, todo perfil possui um histórico composto por: produções audiovis
 
 Esse histórico alavancará em uma das utilidades do sistema, retomar e relembrar os títulos já visualizados em cada perfil, facilitando o reacesso às mídias.
 
-O alicerce do sistema baseia-se na produção audiovisual em si. A funcionalidade principal é o acesso as ****informações relacionadas à alguma mídia requisitada pelo usuário, retornando dados relevantes como título, data de lançamento, duração, franquia e tipo (*live-action* ou animação). Pensando nos devotos por cinema, é possível visualizar, além de todos os dados citados de uma única mídia, informações sobre produtora do título, bem como quantas obras foram feitas por ela, roteiristas, atores e diretores envolvidos.
+O alicerce do sistema baseia-se na produção audiovisual em si. A funcionalidade principal é o acesso as informações relacionadas à alguma mídia requisitada pelo usuário, retornando dados relevantes como título, data de lançamento, duração, franquia e tipo (*live-action* ou animação). Pensando nos devotos por cinema, é possível visualizar, além de todos os dados citados de uma única mídia, informações sobre produtora do título, bem como quantas obras foram feitas por ela, roteiristas, atores e diretores envolvidos.
 
 Por fim, vale ressaltar que, cada produção audiovisual pode ser um filme, documentário ou série. Tal distinção reflete uma funcionalidade importante implementada no sistema, um filtro. Através dele, o usuário poderá acessar mais fácil e rapidamente informações sobre cada uma dessas categorias, por exemplo, o cliente será capaz de ver a quantidade de temporadas e gêneros de sua série favorita, também é possível buscar o tema de interesse nos documentários da plataforma. Dessa forma, os filtros existem para trazer praticidade ao usuário no quesito de busca de títulos para assistir.
